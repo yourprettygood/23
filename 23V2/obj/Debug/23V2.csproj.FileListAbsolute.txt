@@ -1,0 +1,7 @@
+D:\Projects\23V2\bin\Debug\23V2.exe.config
+D:\Projects\23V2\bin\Debug\23V2.exe
+D:\Projects\23V2\bin\Debug\23V2.pdb
+D:\Projects\23V2\obj\Debug\23V2.csproj.AssemblyReference.cache
+D:\Projects\23V2\obj\Debug\23V2.csproj.CoreCompileInputs.cache
+D:\Projects\23V2\obj\Debug\23V2.exe
+D:\Projects\23V2\obj\Debug\23V2.pdb
